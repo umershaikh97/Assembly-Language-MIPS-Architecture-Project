@@ -1,0 +1,28 @@
+Name : M.Umer Shaikh
+Roll num : cs152009
+Subject: COAL LAB PROJECT
+Title: 	Problem Solver in MIPS
+
+Project Description: 
+    1)This program will be able to solve different problems in MIPS (Assembly Language). 
+    2)Enter the CODE of the problem which you want to solve.
+    3)It will solve the selected problem and print its source code in MIPS on console. Moreover, It will also generate the file which contain the pseudocode for the selected problem.
+
+
+
+	**********************************************************
+	*		Problem Solver in MIPS            *
+	**********************************************************
+	*CODE |     OPTION                                       *
+	*--------------------------------------------------------*
+	*  1  | Print Half Pyramid Using Asterik '*'             *
+	*  2  | Print Half Inverted Pyramid Using Asterik '*'    *
+	*  3  | Sort an Array using BUBBLE SORT Algorithm        *
+	*  4  | Check if a Number is Palindrome or not ?         *
+	*  5  | Convert Decimal Number To Binary Number System   *
+	*  6  | Convert Binary Number To Decimal Number System   *
+	*  7  | Reverse an Integer                               *
+	*  8  | Check if a Number is Pefect Number or not ?      *
+	*  9  | Check if a Number is Armstrong Number or not ?   *
+	* 10  | Check if a year is Leap year or not ?            *
+	*******************************
